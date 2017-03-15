@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 47235c583e5eb794faba0bd2d07acd00
+timeCreated: 1489476617
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: isometric_tiles_by_kristyglas-d8oc8r4_0
+    21300002: isometric_tiles_by_kristyglas-d8oc8r4_1
+    21300004: isometric_tiles_by_kristyglas-d8oc8r4_2
+    21300006: isometric_tiles_by_kristyglas-d8oc8r4_3
+    21300008: isometric_tiles_by_kristyglas-d8oc8r4_4
+    21300010: isometric_tiles_by_kristyglas-d8oc8r4_5
+    21300012: isometric_tiles_by_kristyglas-d8oc8r4_6
+    21300014: isometric_tiles_by_kristyglas-d8oc8r4_7
+    21300016: isometric_tiles_by_kristyglas-d8oc8r4_8
+    21300018: isometric_tiles_by_kristyglas-d8oc8r4_9
+    21300020: isometric_tiles_by_kristyglas-d8oc8r4_10
+    21300022: isometric_tiles_by_kristyglas-d8oc8r4_11
+    21300024: isometric_tiles_by_kristyglas-d8oc8r4_12
+    21300026: isometric_tiles_by_kristyglas-d8oc8r4_13
+    21300028: isometric_tiles_by_kristyglas-d8oc8r4_14
+    21300030: isometric_tiles_by_kristyglas-d8oc8r4_15
+    21300032: isometric_tiles_by_kristyglas-d8oc8r4_16
+    21300034: isometric_tiles_by_kristyglas-d8oc8r4_17
+    21300036: isometric_tiles_by_kristyglas-d8oc8r4_18
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 347
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 347
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 347
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 232
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 232
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 232
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 117
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 117
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 117
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: isometric_tiles_by_kristyglas-d8oc8r4_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2
+        width: 142
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
